@@ -79,17 +79,44 @@ body{
     margin-bottom: 15px;
     
 }
+.food__card__description{
+    padding: 5%;
+}
 .food__card__image__container{
     width: 100%;
-
 }
 .food__image{
     width: 100%;
-    border-radius: 8px 8px 0 0; 
 }
-.food__card__description{
-    padding: 15px;
+.restaurant__images__container{
+    width: 100%;
 }
+.restaurant__images__row__one{
+    width: 100%;
+}
+.restaurant__images__row__two{
+    width: 100%;
+}
+.restaurant__images__1{
+    width: 100%;
+}
+.restaurant__images__2{
+    width: 100%;
+}
+.restaurant__images__3{
+    width: 100%;
+}
+.restaurant__images__4{
+    width: 100%;
+}
+.restaurant1,
+.restaurant2,
+.restaurant3,
+.restaurant4{
+    width: 100%;
+}
+
+
 @media (min-width: 768px){
     .navbar{
         justify-content: space-between;
